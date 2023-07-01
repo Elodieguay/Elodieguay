@@ -12,14 +12,13 @@ Enjoy my repositories and do not hesitate to comment or contact me 💕
 <h3> 💬 Ask me about coding : </h3>
 <p ##>
   
-- Languages : Javascript, Typescript
-- Framework : React
+- Stack : Javascript, Node js, SQL, PHP 
+- Framework : React 18, Next.js 13
 
 <h3> I'm plan to learn : </h3>
 
-- Languages : Python, Node js, React Native
-- Databases : Mango DB, SQL
-- Framework : Next js
+- Stack : Python, React Native, Typescript
+- Databases : Mango DB
  ##
 </p>
 
