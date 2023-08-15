@@ -12,8 +12,11 @@ Enjoy my repositories and do not hesitate to comment or contact me 💕
 <h3> 💬 Ask me about coding : </h3>
 <p ##>
   
-- Stack : Javascript, Node js, SQL, PHP 
-- Framework : React 18, Next.js 13
+- Stack : Javascript, Node js, PHP 
+- Framework : React 18, Next.js 13, Laravel
+- Database : SQL, Postgre
+- Server: Docker, Vercel
+- Tools : Github, Bash, Powershell, Figma, Canva, Just in Mind
 
 <h3> I'm plan to learn : </h3>
 
