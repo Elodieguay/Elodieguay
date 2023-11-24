@@ -12,7 +12,7 @@ Enjoy my repositories and do not hesitate to comment or contact me 💕
 <h3> 💬 Ask me about coding : </h3>
 <p ##>
   
-- Stack : Javascript, Node js, PHP 
+- Stack : Javascript, Node js, PHP , Typescript, React Native via Expo
 - Framework : React 18, Next.js 13, Laravel
 - Database : SQL, Postgre
 - Server: Docker, Vercel
@@ -20,7 +20,7 @@ Enjoy my repositories and do not hesitate to comment or contact me 💕
 
 <h3> I'm plan to learn : </h3>
 
-- Stack : Python, React Native, Typescript
+- Stack : Python
 - Databases : Mango DB
  ##
 </p>
