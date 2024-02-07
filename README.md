@@ -14,14 +14,14 @@ Enjoy my repositories and do not hesitate to comment or contact me 💕
   
 - Stack : Javascript, Node js, PHP , Typescript, React Native via Expo
 - Framework : React 18, Next.js 13, Laravel
-- Database : SQL, Postgre
+- Database : SQL, Postgre, MangoDB
 - Server: Docker, Vercel
 - Tools : Github, Bash, Powershell, Figma, Canva, Just in Mind
 
 <h3> I'm plan to learn : </h3>
 
-- Stack : Python
-- Databases : Mango DB
+- Stack : Angular 17
+- Databases : GraphQL
  ##
 </p>
 
