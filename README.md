@@ -1,6 +1,6 @@
 <h1 align= "left" >Hello I'm Elodie </h1>
 
-<h2 align="left" > Web Developper student looking for an apprenticeship </h2>
+<h2 align="left" > Fullstack Developper </h2>
 
 Formerly a Business Creation Advisor📝 and experienced in the tourism industry🗼, I have now been captivated by programming. 
 It has become a growing passion of mine, and I am eager to expand my knowledge further 💻🚀 
